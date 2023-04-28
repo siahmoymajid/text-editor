@@ -66,3 +66,7 @@ THEN I should have proper build scripts for a webpack application
 [RepoLink](https://github.com/siahmoymajid/text-editor)
 
 ## Screenshots
+
+![Image](assets/images/text%20editor.PNG)
+![Image](assets/images/texteditor1.PNG)
+
